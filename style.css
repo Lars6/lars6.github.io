@@ -1,0 +1,12 @@
+﻿html, body {
+	height: 100%;
+}
+
+body {
+	background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+}
+
+#content {
+	display: flex;
+	justify-content: center;
+}
